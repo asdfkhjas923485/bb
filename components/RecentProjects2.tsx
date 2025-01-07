@@ -9,8 +9,8 @@ const RecentProjects2 = () => {
   return (
     <div className="py-20" id="dua">
       <h1 className="heading">
-        Others{" "}
-        <span className="text-purple">++</span>
+        2025{" "}
+        <span className="text-purple">Recaps</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
         {projectss.map((item) => (
@@ -68,7 +68,7 @@ const RecentProjects2 = () => {
 
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check
+                    2025
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
