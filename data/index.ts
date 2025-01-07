@@ -254,7 +254,7 @@ export const projectss = [
     title: "doain biar dapet loker",
     des: "mang eak",
     img: "/pro11.svg",
-    iconLists: ["/S1.svg", "/S2.svg", "/S3.svg", "/S2.svg", "/S4.svg"],
+    iconLists: ["/s1.svg", "/S2.svg", "/S3.svg", "/S2.svg", "/S4.svg"],
     link: "mang eak",
   },
 
