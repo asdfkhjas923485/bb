@@ -343,8 +343,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "CEO Fokusind",
-    desc: "As the CEO of Fokusind, I lead and oversee the strategic direction of the company. My responsibilities include setting goals, managing resources, fostering growth, and ensuring that Fokusind continues to inspire and empower individuals in their self-development and career journeys.",
+    title: "Founder of a media company in Jakarta",
+    desc: "I lead and oversee the strategic direction of the company. My responsibilities include setting goals, managing resources, fostering growth, and ensuring that Fokusind continues to inspire and empower individuals in their self-development and career journeys.",
     kerja: "Full Time | 2021 - Present",
     className: "md:col-span-2",
     thumbnail: "/work7.svg",
