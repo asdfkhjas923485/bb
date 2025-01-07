@@ -264,8 +264,8 @@ export const testimonials = [
   {
     quote:
       "Alawi is amazing! He really knows website code, and the result made our website look great. Awesome.",
-    name: "Sherly Agustin",
-    title: "Student",
+    name: "Agustin",
+    title: "Content Creator",
   },
   {
     quote:
@@ -283,13 +283,13 @@ export const testimonials = [
     quote:
       "Collaborating with Alawi is always cool. He responds quickly, comes up with creative solutions, and isn’t complicated. Top-notch!",
     name: "Muhammad Afrizal",
-    title: "Writer",
+    title: "Developer",
   },
   {
     quote:
       "Recommend Alawi for web development? Absolutely! He doesn’t just code; he understands our business. The website turned out impressive and user-friendly!",
-    name: "Rafif Zaidan",
-    title: "BEM",
+    name: "Zeyn",
+    title: "Recruiter",
   },
 ];
 
