@@ -233,7 +233,7 @@ export const projects = [
   {
     id: 21,
     title: "Meta",
-    des: "The exclusive Meta Indonesia is intended for content creators, writers, and media professionals in Indonesia.",
+    des: "The exclusive Meta Indonesia is intended for content creators, writers.",
     img: "/meta.svg",
     iconLists: ["/igehh.svg", "/ttt.svg", "/mlogo.svg"],
     link: "Jakarta",
@@ -241,7 +241,7 @@ export const projects = [
   {
     id: 22,
     title: "Threads",
-    des: "The exclusive Meta Indonesia is intended for content creators, writers, and media professionals in Indonesia.",
+    des: "Worked Collaboration at Threads as a content creator and media professional.",
     img: "/project7.svg",
     iconLists: ["/igehh.svg", "/ttt.svg", "/mlogo.svg"],
     link: "Jakarta",
