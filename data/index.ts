@@ -218,7 +218,7 @@ export const projects = [
     id: 19,
     title: "Writter",
     des: "Bukunya limited, cuma ada 1 di Jepang",
-    img: "/pro111.svg",
+    img: "/bukuuuu.svg",
     iconLists: ["/igehh.svg", "/ttt.svg", "/mlogo.svg"],
     link: "Book",
   },
