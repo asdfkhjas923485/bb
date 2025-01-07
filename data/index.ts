@@ -248,6 +248,18 @@ export const projects = [
   },
 ];
 
+export const projectss = [
+  {
+    id: 1,
+    title: "doain biar dapet loker",
+    des: "mang eak",
+    img: "/pro11.svg",
+    iconLists: ["/S1.svg", "/S2.svg", "/S3.svg", "/S2.svg", "/S4.svg"],
+    link: "mang eak",
+  },
+
+];
+
 export const testimonials = [
   {
     quote:
