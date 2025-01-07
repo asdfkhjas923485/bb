@@ -10,7 +10,7 @@ const Clients = () => {
     <section id="testimonials" className="py-20">
       <h1 className="heading">
         What they
-        <span className="text-purple"> Say?</span>
+        <span className="text-purple"> say?</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
@@ -24,22 +24,19 @@ const Clients = () => {
             speed="slow"
           />
         </div>
-         <h1 className="heading">
+        <h1 className="heading">
         Company
         <span className="text-purple"> Collaboration</span>
       </h1>
-        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10 mt-8">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
               <div className="flex md:max-w-60 max-w-32 gap-2">
                 <img
                   src={company.img}
-                  className="md:w-10 w-5"
+                  className="md:w-40 w-20"
                 />
-                <img
-                  width={company.id === 4 || company.id === 5 ? 100 : 150}
-                  className="md:w-24 w-20"
-                />
+            
               </div>
             </React.Fragment>
           ))}
